@@ -1,0 +1,8 @@
+{
+  "name": "Sunu Tech Groupe - Solutions Digitales & Gestion",
+  "description": "Site vitrine officiel et plateforme de gestion (Espace Client & Administration) de Sunu Tech Groupe : conception de sites web, applications mobiles, devis et facturation d'acompte en FCFA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
